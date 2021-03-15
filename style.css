@@ -10,9 +10,14 @@ margin-top: 100px;
 padding: 10px;
 font-weight: bold;
 box-shadow: 0 0 10px black;
+transition-property: all;
 }
 h1 {
  text-shadow: 3px 4px 2px black;
+}
+intro.hover {
+color: skyblue;
+background-color: green;
 }
 body{
     padding: 0;
