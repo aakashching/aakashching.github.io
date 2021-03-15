@@ -10,7 +10,7 @@ margin-top: 100px;
 padding: 10px;
 font-weight: bold;
 box-shadow: 0 0 10px black;
-transition-property: all;
+transition-property:all;
 transition-duration:1s;
 }
 .intro:hover
