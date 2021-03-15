@@ -34,6 +34,7 @@ font-weight: bold;
 border: solid silver 2px;
 margin-right: 12px;
 padding: 2px;
+box-shadow: 0 0 7px black;
 }
 .bb {
 margin-top: 15px;
