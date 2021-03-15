@@ -15,7 +15,7 @@ transition-property: color;
 h1 {
  text-shadow: 3px 4px 2px black;
 }
-.intro:hover {
+.intro.hover {
 color: skyblue;
 background-color: green;
 }
