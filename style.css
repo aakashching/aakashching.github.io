@@ -8,6 +8,10 @@ body
 {
 				background-color: black;
 }
+.dil
+{
+                               text-shadow: 0 0 10px red;
+}
 .fa
 {
 				margin-right: 5px;
