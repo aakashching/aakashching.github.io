@@ -10,7 +10,7 @@ body
 }
 .dil
 {
-                               text-shadow: 0 0 10px red;
+                               text-shadow: 0 0 10px red,0 0 20px red,0 0 40px red;
 }
 .fa
 {
